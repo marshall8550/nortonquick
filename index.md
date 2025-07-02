@@ -21,7 +21,7 @@ Before you begin, make sure you have:
 
 1. Go to the official Norton website.
 2. Click **Sign In** and enter your Norton account credentials.
-3. Once signed in, go to **My Subscriptions** to find your purchased Norton product.
+3. [Once signed in, go to **My Subscriptions** to find your purchased Norton product.](https://nortonquick.readthedocs.io/)
 
 If you're looking to **install Norton already purchased**, accessing your account is the first step.
 
